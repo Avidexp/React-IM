@@ -1,5 +1,5 @@
 #Simple Chat API
-A simple chat API for the coderfactory blog article
+A simple chat API 
 
 Start the API by running:
 ```
