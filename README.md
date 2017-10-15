@@ -9,7 +9,7 @@ TO RUN LOCALLY:
         -npm run compile
         -npm start
     
-    Once Chat_Api is running
+    Once Chat_Api is running, on a new terminal:
 
         -CD into react-im
             -npm install
